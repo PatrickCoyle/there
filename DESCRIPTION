@@ -1,0 +1,14 @@
+Package: there
+Type: Package
+Title: Unquoted File Referencing
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: Patrick Coyle <yourself@somewhere.net>
+Description: Unquoted file referencing in project-oriented workflows
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    here,
+    rlang
+RoxygenNote: 7.2.3
